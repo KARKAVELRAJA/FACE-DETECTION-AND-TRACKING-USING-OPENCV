@@ -18,4 +18,4 @@
 
 ### FILES
 
-haarcascade_frontalface_default.xml - used for importing pre-trained model
+haarcascade_frontalface_default.xml - used for Face Detection
